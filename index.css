@@ -95,6 +95,8 @@ header {
 }
 
 .angle-down-icon a {
+  /* padding-top: 8px; */
+  margin-top: 8px;
   text-decoration: none;
   color: #07374a;
   padding: 1rem;
