@@ -478,6 +478,19 @@ header {
 .more-work a:hover {
   border-bottom: 2px solid #f0f0e6;
 }
+/*////........ Certificates....////// */
+.sam {
+  background-color: #f9c80e;
+  padding: 6rem 0;
+}
+
+.position-left {
+  display: flex;
+}
+.direction-right {
+  display: flex;
+  flex-direction: flex-end;
+}
 
 /* ////......Contact......///// */
 
@@ -715,4 +728,10 @@ header {
   .header {
     height: 90vmax;
   }
+}
+.qq{
+  display: flex;
+  /* fl */
+  flex-direction: flex-start;
+
 }
