@@ -207,7 +207,7 @@ header {
   width: 70%;
 }
 .progress-line .bootstrap {
-  width: 50%;
+  width: 80%;
 }
 .progress-line .javascript {
   width: 40%;
@@ -732,6 +732,8 @@ header {
 .qq{
   display: flex;
   /* fl */
+  flex-wrap: wrap;
+  align-items:flex-start;
   flex-direction: flex-start;
 
 }
