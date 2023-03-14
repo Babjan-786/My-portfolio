@@ -6,7 +6,7 @@
 }
 
 html { 
-    background: url(images/bg.jpg) no-repeat center center fixed; 
+    background: url(images/bg1.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -21,7 +21,7 @@ body {
 }
 
 header {
-    background-color: #00BFFF;
+    /* background-color: #00BFFF; */
     text-align: center;
     padding: 2rem;
     margin-bottom: 1rem;
