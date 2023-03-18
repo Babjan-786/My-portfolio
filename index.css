@@ -104,6 +104,40 @@ header {
   justify-content: center;
 }
 
+/* Resume Butten  */
+
+.buttons{
+  display: flex;
+  /* margin-top:22px;
+  margin-bottom: 20px;
+  padding-left: 60px; */
+
+
+  position: absolute;
+  bottom: 10%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  /* border: 3px solid #07374a; */
+  border-radius: 50%;
+}
+button{
+  padding: 4px 8px;
+  background-color:white;
+  border-radius: 35%;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border: 1px   gray;
+
+}
+#btn:hover{
+  background-color: green;
+  cursor: pointer;
+  color: white;
+}
+button:hover{
+  background-color: white;
+}
+
 /* ////........About Me........//// */
 
 .about-me {
